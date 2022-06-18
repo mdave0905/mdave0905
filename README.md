@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mdave0905
+- 👀 I’m interested in Android App Development
+- 🌱 I’m currently learning Java and Android
+- 💞️ I’m looking to collaborate on Real Projects
+- 📫 How to reach me: mdave0905@gmail.com | +91-9712350130
